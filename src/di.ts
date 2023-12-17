@@ -88,7 +88,7 @@ class ScopedProvider {
   }
 }
 
-export default class DI {
+export class DI {
   private static _global = new ScopedProvider();
 
   /**
