@@ -1,7 +1,6 @@
 {
   "name": "forzen-di",
   "version": "0.0.1",
-  "private": true,
   "description": "Small service locator based DI library for Node projects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
